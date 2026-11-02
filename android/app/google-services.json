@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "447886900859",
+    "project_id": "dinoume-aima-app",
+    "storage_bucket": "dinoume-aima-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447886900859:android:34629062007f84cadeacde",
+        "android_client_info": {
+          "package_name": "com.dinoumeaimaappnya.ios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447886900859-60ftktftvkruo32ph47nndho1lp9251m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dinoumeaimaappnya.ios",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "447886900859-qp3h2e9mqagc32nffo1jf5hcgj2kvcf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWS7LJFqTJhJYPU38nISU2dk53me_w2-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447886900859-qp3h2e9mqagc32nffo1jf5hcgj2kvcf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447886900859-kf16i82k7kqtb5264911ukd21m3c3jss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.dinoumeaima"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

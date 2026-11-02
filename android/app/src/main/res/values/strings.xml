@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Dinoume Aima Hospitals</string>
+    <string name="facebook_app_id">DinoumeAima</string>
+    <string name="fb_login_protocol_scheme">fbDinoumeAima</string>
+    
+          
+</resources>
